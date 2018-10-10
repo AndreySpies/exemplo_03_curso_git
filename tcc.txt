@@ -1,0 +1,9 @@
+Listar diretório atual: pwd
+Listar pastas contidas no diretório atual: ls
+Listar pastas ocultas: ls -la
+Ir para pasta acima: cd ..
+Entrar na pasta "X": cd Downloads -ou- cd "Google Drive"
+Criar diretórios: mkdir [nome da pasta]
+Iniciar Repositório Git: git init
+Verificar status do Git: git status
+Remover Git de diretório: rm rf .git/   --- rm = "remove", rf = "forçar"
