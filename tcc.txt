@@ -7,3 +7,8 @@ Criar diretórios: mkdir [nome da pasta]
 Iniciar Repositório Git: git init
 Verificar status do Git: git status
 Remover Git de diretório: rm rf .git/   --- rm = "remove", rf = "forçar"
+
+------------ Comandos Git ------------
+Adicionar arquivo ao 'rastreamento': git add [nome_do_arquivo.extensão]
+Adicionar todos os arquivos ao "rastreamento": git add .
+Commitar: git commit - "[mensagem]"
